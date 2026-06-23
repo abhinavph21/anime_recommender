@@ -7,4 +7,4 @@ pandas
 python-dotenv
 sentence-transformers
 langchain_huggingface
-lanchain-core
+langchain-core
